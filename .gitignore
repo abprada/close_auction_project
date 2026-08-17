@@ -1,4 +1,4 @@
-data/
+data/*
 *.pkl
 *.pickle
 *.csv
@@ -7,3 +7,5 @@ data/
 *.h5
 *.tar
 CLAUDE.md
+.DS_Store
+!data/panel_clean.csv

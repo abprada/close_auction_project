@@ -1,0 +1,9 @@
+data/
+*.pkl
+*.pickle
+*.csv
+*.parquet
+*.feather
+*.h5
+*.tar
+CLAUDE.md

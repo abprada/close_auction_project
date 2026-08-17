@@ -9,3 +9,4 @@ data/*
 CLAUDE.md
 .DS_Store
 !data/panel_clean.csv
+research/*.pdf

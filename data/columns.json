@@ -1,7 +1,5 @@
 {
   "target_cols": [
-    "target_bps_vs_ref",
-    "target_bps_vs_near",
     "target_bps_vs_mid"
   ],
   "identifier_cols": [

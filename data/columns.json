@@ -53,6 +53,7 @@
   "final_feature_cols": [
     "near_price_vs_mid_bps",
     "urgency",
-    "ref_price_vs_mid_bps"
+    "ref_price_vs_mid_bps",
+    "far_price_vs_mid_bps"
   ]
 }

@@ -49,5 +49,10 @@
     "ref_price_ret_60s_bps",
     "imbalance_ratio_std_60s",
     "ref_price_std_60s_bps"
+  ],
+  "final_feature_cols": [
+    "near_price_vs_mid_bps",
+    "urgency",
+    "ref_price_vs_mid_bps"
   ]
 }

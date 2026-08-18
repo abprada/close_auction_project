@@ -1,6 +1,5 @@
 {
   "target_cols": [
-    "close_price",
     "target_bps_vs_ref",
     "target_bps_vs_near",
     "target_bps_vs_mid"
@@ -12,7 +11,8 @@
     "local_time",
     "local_clock",
     "side",
-    "qa_n_snapshots_60s"
+    "qa_n_snapshots_60s",
+    "close_price"
   ],
   "feature_cols": [
     "adv",

@@ -1,0 +1,52 @@
+{
+  "target_cols": [
+    "close_price",
+    "target_bps_vs_ref",
+    "target_bps_vs_near",
+    "target_bps_vs_mid"
+  ],
+  "identifier_cols": [
+    "symbol",
+    "date",
+    "ts",
+    "local_time",
+    "local_clock",
+    "side",
+    "qa_n_snapshots_60s"
+  ],
+  "feature_cols": [
+    "adv",
+    "ask",
+    "ask_qty",
+    "bid",
+    "bid_qty",
+    "far_price",
+    "near_price",
+    "open",
+    "paired_shares",
+    "ref_price",
+    "shares",
+    "imbalance_ratio",
+    "signed_shares",
+    "signed_imbalance_ratio",
+    "spread",
+    "spread_bps",
+    "urgency",
+    "shares_over_adv",
+    "paired_shares_over_adv",
+    "far_price_available",
+    "near_far_spread_bps",
+    "intraday_move_bps",
+    "imbalance_ratio_chg_10s",
+    "signed_imbalance_ratio_chg_10s",
+    "ref_price_ret_10s_bps",
+    "imbalance_ratio_chg_30s",
+    "signed_imbalance_ratio_chg_30s",
+    "ref_price_ret_30s_bps",
+    "imbalance_ratio_chg_60s",
+    "signed_imbalance_ratio_chg_60s",
+    "ref_price_ret_60s_bps",
+    "imbalance_ratio_std_60s",
+    "ref_price_std_60s_bps"
+  ]
+}

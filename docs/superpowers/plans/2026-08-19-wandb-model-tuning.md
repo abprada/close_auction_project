@@ -176,7 +176,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 2: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task1.py`
-Expected: `wrote 5 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 6 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 3: Execute the notebook for real**
 
@@ -333,7 +333,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 3: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task2.py`
-Expected: `wrote 7 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 8 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 4: Execute the notebook for real (background this — Task 1's cells re-run too)**
 
@@ -419,7 +419,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 3: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task3.py`
-Expected: `wrote 9 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 10 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 4: Execute the notebook for real (background)**
 
@@ -516,7 +516,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 3: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task4.py`
-Expected: `wrote 11 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 12 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 4: Execute the notebook for real (background)**
 
@@ -610,7 +610,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 3: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task5.py`
-Expected: `wrote 13 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 14 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 4: Execute the notebook for real (background)**
 
@@ -777,7 +777,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 2: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task6.py`
-Expected: `wrote 17 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 18 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 3: Execute the notebook for real (background)**
 
@@ -1023,7 +1023,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 3: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task7.py`
-Expected: `wrote 19 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 20 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 4: Execute the notebook for real (background — this is the slowest task so far)**
 
@@ -1108,7 +1108,7 @@ print(f"wrote {len(cells)} total cells to {PATH}")
 - [ ] **Step 2: Run the script**
 
 Run: `.venv/bin/python3 /tmp/build_04_task8.py`
-Expected: `wrote 21 total cells to 04) train_wandb.ipynb`
+Expected: `wrote 22 total cells to 04) train_wandb.ipynb`
 
 - [ ] **Step 3: Execute the notebook for real (background — full cumulative run, all 5 sweeps)**
 

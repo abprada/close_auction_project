@@ -15,3 +15,10 @@ wandb/
 !data/test.csv
 !data/columns.json
 research/*.pdf
+report.tex
+report.pdf
+report_assets/
+*.aux
+*.log
+*.out
+*.toc

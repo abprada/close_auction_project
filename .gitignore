@@ -8,6 +8,8 @@ data/*
 *.tar
 CLAUDE.md
 .DS_Store
+.env
+wandb/
 !data/panel_clean.csv
 !data/train.csv
 !data/test.csv

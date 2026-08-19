@@ -11,3 +11,4 @@ lightgbm>=4.5
 shap>=0.46
 sage-importance>=0.0.6
 lazypredict>=0.2.12
+wandb>=0.18
